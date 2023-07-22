@@ -1,2 +1,5 @@
-# OlaMundo
- Primeiro Repositorio do Curso Git e GitHub
+# Olá, Mundo!
+ Primeiro Repositório do Curso Git e GitHub
+
+
+Repositório criado durante uma aula ao vivo!
